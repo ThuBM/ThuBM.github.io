@@ -1714,6 +1714,10 @@ section.lazy-placeholder:after {
 .cid-rYzwX5wfWs H2 {
   color: #232323;
 }
+.cid-rYzwX5wfWs .icon-block,
+.cid-rYzwX5wfWs .icon-block .icon-block__title {
+  text-align: center;
+}
 .cid-rYzzcmLsFo {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -3659,6 +3663,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0mURMBwKk P {
   color: #232323;
+  text-align: center;
 }
 .cid-s0mWX4QIyX {
   padding-top: 30px;
@@ -3707,6 +3712,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0mXl4jzSF .card-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-s0mXl4jzSF P {
   color: #ffffff;
